@@ -85,7 +85,13 @@ By completing this project, I gained hands-on experience in:
 
 ## 📎 How to Use
 
-1. Create the database:
-   ```sql
-   CREATE DATABASE Restaurant;
-   USE Restaurant;
+1. Run table creation scripts  
+2. Apply foreign key constraints  
+3. Execute queries section-by-section for learning and analysis  
+
+---
+
+## 🚀 Author
+
+**Kesavapavan Gadde**  
+SQL | Data Analytics | Learning Journey
